@@ -9,3 +9,6 @@ How to use them on CentOS 6.x or 7.x:
 $ sudo yum install -y golang
 $ go version
 ```
+
+Web Reference:
+https://howistart.org/posts/go
